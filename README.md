@@ -1,6 +1,6 @@
 # Overview
 This project contains the tools necessary to integrate a simple, free, non-rigorous implementation of Zero-Trust Networking (ZTN) concepts in a home network space. 
-Any users implementing this guide should be aware that installing [OpenWRT](https://openwrt.org/start) will void most (if not all) router warranties. 
+Any users implementing this guide should be aware that installing [OpenWRT](https://openwrt.org/start) will void most (if not all) router warranties. This project was part of University of Oregon's Computing Security II course. 
 
 ## This project is perfect for you if: 
 - You are a relatively non-invested network admin of your home network
@@ -21,3 +21,7 @@ There are two avenues that the user can leverage:
 
 Installing OpenWRT is the more intensive, technical, and potentially dangerous option. Regardless, it's pretty cool and allows the majority of the tools to be installed at the best possible location
 on the network. 
+
+# What This Project Is
+This project is essentially a guide/report on the steps needed to implement key ZTN concepts on a home router. Please see REPORT.pdf for more.
+
